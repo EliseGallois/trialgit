@@ -9,10 +9,10 @@ PhD student at University of Edinburgh School of Geosciences, E4 NERC DTP 2019 C
 - Cross-site ecology syntheses
 - Phenology
 
-#Whats cooler than being cool?
+# Whats cooler than being cool?
 Ice cold!
--alright
--alright
--alright
--alright 
--alright
+- alright
+- alright
+- alright
+- alright 
+- alright
