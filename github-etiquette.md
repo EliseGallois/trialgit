@@ -3,3 +3,4 @@ Don't use funky characters and spaces in your file names, these cause trouble be
 Always pull before you push in case someone has done any work since the last time you pulled - you wouldn't want anyone's work to get lost or to have to resolve many coding conflicts.
 
 I'm editing the file now.
+Pull?
